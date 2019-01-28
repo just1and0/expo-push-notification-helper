@@ -1,0 +1,19 @@
+{
+  "name": "expo-push-notification-helper",
+  "version": "0.1.0",
+  "description": "This package helps you make expo push notification for React Native  easy to use.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/just1and0/expo-push-notification-helper.git"
+  },
+  "keywords": [
+    "push notification, react native, expo"
+  ],
+  "author": "Oluwatobi Shokunbi <ayoshokz@gmail.com> (https://github.com/just1and0/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/just1and0/expo-push-notification-helper/issues"
+  },
+  "homepage": "https://github.com/just1and0/expo-push-notification-helper#readme"
+}
