@@ -114,9 +114,8 @@ import { notify } from 'expo-push-notification-helper';
 
 #### all Object-To-Array-Convert props
 #
-
 | Name | Use | callback | note |
-| ------ | ------ |
+| ------ | ------ | ------ | ------ |
 | initnotify() | initialize package, this will ask for notification permission. | true, false | null |
 | getToken() | get expo token of device | null | must be called in async/await |
 | newChannel(name, isSound) | create new notification channel | true, false | null |
