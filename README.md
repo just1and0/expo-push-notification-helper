@@ -20,7 +20,7 @@ You're all set!
 ### Usage
 
 ##### To initialize expo-push-notification-helper import the "initnotify"
-#
+
 ```sh
 //import the initnotify into your project
 import { initnotify } from 'expo-push-notification-helper';
@@ -33,7 +33,7 @@ import { initnotify } from 'expo-push-notification-helper';
 
 #####  can also use the callback function. Which returns true on success and false if unsuccessful.
 ##### this will also automatically create three channels for your app, "default", "reminders", "chat-messages" .
-#
+
 ```sh
 //import the initnotify into your project
 import { initnotify } from 'expo-push-notification-helper';
@@ -53,7 +53,7 @@ import { initnotify } from 'expo-push-notification-helper';
 
 ##### To get expo token of device import the "getToken"
 ###### this must be used in a async/await .
-#
+
 ```sh
 //import the getToken into your project
 import { initnotify, getToken } from 'expo-push-notification-helper';
@@ -77,7 +77,7 @@ import { initnotify, getToken } from 'expo-push-notification-helper';
 
 
 ##### To  create a new channel import the "newChannel"
- #
+
 ```sh
 //import the newChannel into your project 
 import {  newChannel } from 'expo-push-notification-helper';
