@@ -10,5 +10,5 @@ const { getToken } = getTokener;
 const { newChannel } = newChanneler;
 const { notify } = notifyer;
 
-export { newChannel, getToken,notifyinit,notify };
+export { newChannel, getToken,initnotify,notify };
 
