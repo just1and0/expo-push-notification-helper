@@ -112,13 +112,13 @@ import { notify } from 'expo-push-notification-helper';
 
 ## Props
 
-#### all Object-To-Array-Convert props
+#### all expo-push-notification-helper props
 #
 | Name | Use | callback | note |
 | ------ | ------ | ------ | ------ |
-| initnotify() | initialize package, this will ask for notification permission. | true, false | null |
+| initnotify() | initialize package, this will ask for notification permission. | true, false | this will also automatically create three channels for your app, "default", "reminders", "chat-messages" .|
 | getToken() | get expo token of device | null | must be called in async/await |
-| newChannel(name, isSound) | create new notification channel | true, false | null |
+| newChannel(name, isSound) | create new notification channel | true, false | isSound is a boolean |
 | notify( token, title, body, channel ) |  send push notification| null | without providing a channel. channel will be set to default by default |
 
 #
