@@ -92,7 +92,7 @@ import {  newChannel } from 'expo-push-notification-helper';
 #
 
 #### To send push notification import the "notify"
-#
+
 ```sh
 
 
