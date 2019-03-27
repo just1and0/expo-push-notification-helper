@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.com/just1and0/object-to-array-convert.svg?branch=master)](https://travis-ci.com/just1and0/expo-push-notification-helper/)
 
-[![ Code Quality](https://scrutinizer-ci.com/g/just1and0/expo-push-notification-helper/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/just1and0/expo-push-notification-helper/?branch=master)
+[![Code Quality](https://scrutinizer-ci.com/g/just1and0/expo-push-notification-helper/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/just1and0/expo-push-notification-helper/?branch=master)
 
 This package helps you make expo push notification for React Native  easy to use.
 
