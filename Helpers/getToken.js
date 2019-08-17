@@ -1,11 +1,12 @@
 
-import {Platform} from 'react-native';
+import { Notifications } from 'expo';
+import * as Permissions from 'expo-permissions';
 
 
 const getTokener = {
      // get expo token
     getToken: async ()=>{
-       const token = await Expo.Notifications.getExpoPushTokenAsync();
+       const token = await Notifications.getExpoPushTokenAsync();
        return token;
     },
 
