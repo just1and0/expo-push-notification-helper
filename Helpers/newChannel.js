@@ -1,6 +1,7 @@
 
 import {Platform} from 'react-native';
-
+import { Notifications } from 'expo';
+import * as Permissions from 'expo-permissions';
 
 const newChanneler = {
     // create a new channel
@@ -8,7 +9,7 @@ const newChanneler = {
                   switch(isSound){
                       case false:
                        if (Platform.OS === 'android') {
-                          Expo.Notifications.createChannelAndroidAsync(name, {
+                          Notifications.createChannelAndroidAsync(name, {
                             name: name,
                             sound: false,
                           });
@@ -20,7 +21,7 @@ const newChanneler = {
 
                    case true:
                        if (Platform.OS === 'android') {
-                          Expo.Notifications.createChannelAndroidAsync(name, {
+                          Notifications.createChannelAndroidAsync(name, {
                             name: name,
                             sound: true,
                           });
@@ -32,7 +33,7 @@ const newChanneler = {
 
                        default:
                              if (Platform.OS === 'android') {
-                                Expo.Notifications.createChannelAndroidAsync(name, {
+                                Notifications.createChannelAndroidAsync(name, {
                                   name: name,
                                   sound: false,
                                 });
