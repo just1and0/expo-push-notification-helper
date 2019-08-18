@@ -1,6 +1,6 @@
 {
   "name": "expo-push-notification-helper",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "This package helps you make expo push notification for React Native  easy to use.",
   "main": "index.js",
   "repository": {

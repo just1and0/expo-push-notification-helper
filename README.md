@@ -123,7 +123,14 @@ import { notify } from 'expo-push-notification-helper';
 | newChannel(name, isSound) | create new notification channel | true, false | isSound is a boolean |
 | notify( token, title, body, channel ) |  send push notification| null | without providing a channel. channel will be set to default by default |
 
-#
+
+
+# Contributing
+Have a new feature you'd love to add to this project? Make a Send me a pull request! Just follow the [guidelines](https://github.com/just1and0/expo-push-notification-helper/blob/master/contribute.md). Thank you!
+
+
+
+
 #
 ### don't forget to star, like and share :)
 #
