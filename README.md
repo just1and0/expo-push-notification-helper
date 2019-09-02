@@ -91,7 +91,7 @@ import {  newChannel } from 'expo-push-notification-helper';
 ##### on default your channel will be created sound being false but you can change that by adding true as a second input
 
 #
-#
+
 
 #### To send push notification import the "notify"
 
@@ -109,13 +109,12 @@ import { notify } from 'expo-push-notification-helper';
 ##### Not you must supply the channel."
 
 
-#
-#
+
 
 ## Props
 
 #### all expo-push-notification-helper props
-#
+
 | Name | Use | callback | note |
 | ------ | ------ | ------ | ------ |
 | initnotify() | initialize package, this will ask for notification permission. | true, false | this will also automatically create three channels for your app, "default", "reminders", "chat-messages" .|
@@ -131,9 +130,8 @@ Have a new feature you'd love to add to this project? Make a Send me a pull requ
 
 
 
-#
 ### don't forget to star, like and share :)
-#
+
 
 ## Licensing
 ----
