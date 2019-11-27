@@ -41,7 +41,7 @@ import { initnotify } from 'expo-push-notification-helper';
 import { initnotify } from 'expo-push-notification-helper';
 
 //and then use like so
-         initnotify().the((data)=>{
+         initnotify().then((data)=>{
               if(data){
                 //get token
               }else{
