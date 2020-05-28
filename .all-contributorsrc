@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "txvnt",
+      "name": "Tomás Vélez Núñez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43381969?v=4",
+      "profile": "https://github.com/txvnt",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "expo-push-notification-helper",
+  "projectOwner": "just1and0",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
