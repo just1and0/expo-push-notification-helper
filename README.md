@@ -152,7 +152,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/txvnt"><img src="https://avatars0.githubusercontent.com/u/43381969?v=4" width="100px;" alt=""/><br /><sub><b>Tomás Vélez Núñez</b></sub></a><br /><a href="https://github.com/just1and0/expo-push-notification-helper/commits?author=txvnt" title="Code">💻</a></td>
     <td align="center"><a href="http://www.ujjalacharya.com.np"><img src="https://avatars3.githubusercontent.com/u/19649166?v=4" width="100px;" alt=""/><br /><sub><b>Ujjal Acharya</b></sub></a><br /><a href="https://github.com/just1and0/expo-push-notification-helper/commits?author=ujjalacharya" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://linksnest.com/just1and0"><img src="https://avatars3.githubusercontent.com/u/17249207?v=4" width="100px;" alt=""/><br /><sub><b>Oluwatobi Shokunbi </b></sub></a><br /><a href="https://github.com/just1and0/expo-push-notification-helper/commits?author=just1and0" title="Code">💻</a></td>
+    <td align="center"><a href="https://linksnest.com/just1and0"><img src="https://avatars3.githubusercontent.com/u/17249207?v=4" width="100px;" alt=""/><br /><sub><b>Oluwatobi Shokunbi </b></sub></a><br /><a href="https://github.com/just1and0/expo-push-notification-helper/commits?author=just1and0" title="Code">💻</a> <a href="https://github.com/just1and0/expo-push-notification-helper/commits?author=just1and0" title="Documentation">📖</a></td>
   </tr>
 </table>
 
